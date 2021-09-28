@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://umich.box.com/s/qaa2h6vub3ibhipkl6k9w2ludqt8jeju)
+[Download Resume](https://www.dropbox.com/s/gi3xe8d8mj63owh/POP%20Resume.pdf?dl=0)
 
 Education
 ======
