@@ -42,10 +42,10 @@ Publications
 4. [Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, **Orozco-del-Pino P**, Orozco-Gutiérrez, Post-Birth umbilical cord blood content in premature and term infants, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=95403)
 5. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
 
-**Manuscripts submitted****
-1. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype association across ancestrally diverse populations.
+**Manuscripts accepted**
+1. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype associations across ancestrally diverse populations.
 
-**Manuscripts in preparation****
+**Manuscripts in preparation**
 1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
 2. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
 3. **Orozco-del-Pino P**, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
