@@ -36,11 +36,12 @@ Skills
 
 Publications
 ======
-1. [Lozano-Esparza S, **Orozco-del-Pino P**, Gasca N, Olivas A, Arroyo J, Ulloa E, Garbuno A, Las vacunas: ¿qué son? ¿podemos confiar en ellas?, Punto Decimal](https://puntodecimal.mx/ciencia/las-vacunas-que-son-y-podemos-confiar-en-ellas)
-2. [Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, **Orozco-del-Pino P**, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020](https://datos.nexos.com.mx/?p=1771)
-3. [Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, **Orozco-del-Pino P**, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020.](https://datos.nexos.com.mx/?p=1520)
-4. [Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, **Orozco-del-Pino P**, Orozco-Gutiérrez, Post-Birth umbilical cord blood content in premature and term infants, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=95403)
-5. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
+1. [Del-Pino-Flores ME, López-Garza M, **Orozco-del-Pino P**. Increase in Demodex sp infestations during the first confinement period, March to November 2020, during the SARS-CoV-2 pandemic. Acta Med. 2021;19(Suppl: 1):s76-79. doi:10.35366/101033.](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=101033)
+2. [Lozano-Esparza S, **Orozco-del-Pino P**, Gasca N, Olivas A, Arroyo J, Ulloa E, Garbuno A, Las vacunas: ¿qué son? ¿podemos confiar en ellas?, Punto Decimal](https://puntodecimal.mx/ciencia/las-vacunas-que-son-y-podemos-confiar-en-ellas)
+3. [Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, **Orozco-del-Pino P**, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020](https://datos.nexos.com.mx/?p=1771)
+4. [Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, **Orozco-del-Pino P**, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020.](https://datos.nexos.com.mx/?p=1520)
+5. [Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, **Orozco-del-Pino P**, Orozco-Gutiérrez, Post-Birth umbilical cord blood content in premature and term infants, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=95403)
+6. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
 
 **Manuscripts accepted**
 1. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype associations across ancestrally diverse populations.
