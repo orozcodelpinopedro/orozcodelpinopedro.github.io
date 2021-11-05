@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Last update: October, 27th, 2021"
+title: "Last update: November, 5th, 2021"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-1. [Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D. An overview of strategies for detecting genotype-phenotype associations across ancestrally diverse populations.](http://links.email.frontiersin.org/ls/click?upn=Dpg5ochww630xh6EMvshS4k2vZe-2Fd8MH-2FVpzt1-2FUQD91C-2FNL5bIclwWnNjv5HD9izZCaOx2V3EtqIs0Ckedw-2F72QCuAbWxvzI5H2U0GLIs1NNMPq0NuvhhZ1e-2BGBz5PxyC5aGtISXdRANzO7473lomStNNg536CzE4jVNK3UV5dN-2F5SwL-2BSBMab-2BP5evYwzXNaE8Ak7DS6vqWMWrAT2bR-2B-2B-2BvdTnmuBk0bKlus3DDMchn28L1JqH4YyjD3cgDKcTYUCKesmZogZbRzCNOweRLCjRp1f-2Fb35J9f4RPVhCUxaicSCQkLOXO21PN18UmH86TaO8_b4fY4FsYgQgr8qlx3E7Vd03AK6lsq52n-2Fx9qFD9xZ5UVdTJrHJ0OKOOu-2BQ0hx4ZD0OlTul-2FRhoEcawL1Kogc8Y8FEEm-2FyOgDQxnqyjhQdi4TUzgEWzlQlkWmzIQQDHCZSqtjkP8y0ixqxQMoULjp6CH0uQlRCUdCW3Pe1n4SPyReZ-2BJ7Jbqan74t2BcKAp567y-2FnjmPO2FvaAh4gJoxwqc1OQz5lmJzj5pckH853N64NJp8DqOkkeRE8TVk8fUTy)
+1. [Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D. An overview of strategies for detecting genotype-phenotype associations across ancestrally diverse populations.](https://doi.org/10.3389/fgene.2021.703901)
 2. [Del-Pino-Flores ME, López-Garza M, **Orozco-del-Pino P**. Increase in Demodex sp infestations during the first confinement period, March to November 2020, during the SARS-CoV-2 pandemic. Acta Med. 2021;19(Suppl: 1):s76-79. doi:10.35366/101033.](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=101033)
 3. [Lozano-Esparza S, **Orozco-del-Pino P**, Gasca N, Olivas A, Arroyo J, Ulloa E, Garbuno A, Las vacunas: ¿qué son? ¿podemos confiar en ellas?, Punto Decimal](https://puntodecimal.mx/ciencia/las-vacunas-que-son-y-podemos-confiar-en-ellas)
 4. [Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, **Orozco-del-Pino P**, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020](https://datos.nexos.com.mx/?p=1771)
