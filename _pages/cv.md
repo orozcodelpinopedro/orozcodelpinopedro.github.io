@@ -86,6 +86,11 @@ Service and leadership
 * “Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
   * Founding member, May 2020- present
     * Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination of scientific information to the general population. https://mxciencia.github.io
+* Reviewer for the following journals
+  * Journal of Statistical Computation and Simulation
+  * Acta Médica Grupo Ángeles
+  * BMC Research Notes
+  * The Journal of Allergy and Clinical Immunology
 
 Awards and Scholarships
 ======
