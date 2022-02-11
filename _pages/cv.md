@@ -48,9 +48,9 @@ Publications
 1. Gasca N, Reyes-Garza J, Lozano-Esparza S, **Orozco-del-Pino P**, Olivas-Martinez A, Ulloa-Pérez E, Garbuno-Inigo A, Arroyo J. Quantifying the effect of Mexico’s vaccination program on COVID-19 cases, hospitalizations, and deaths among older adults in Mexico City.
 
 **Manuscripts in preparation**
-1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
+1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants.
 2. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
-3. **Orozco-del-Pino P**, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
+3. **Orozco-del-Pino P**, Zöllner S, Improving predictive ability of Polygenic Risk Scores by integrating GWAS summary statistics from different populations.
   
 Talks
 ======
