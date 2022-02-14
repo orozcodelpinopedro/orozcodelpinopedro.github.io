@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Pedro Orozco del Pino"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
