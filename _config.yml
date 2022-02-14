@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Pedro Orozco del Pino"
 title_separator          : "-"
 name                     : &name "Pedro Orozco del Pino, MS"
 description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
