@@ -2,7 +2,7 @@
 title: ""
 collection: teaching
 type: "Hobby"
-permalink: /teaching/drawings.html
+permalink: /teaching/ilustraciones
 location: "Ann Arbor, USA"
 ---
 
