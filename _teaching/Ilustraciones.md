@@ -1,10 +1,7 @@
 ---
-title: "Drawing to remember"
+title: ""
 collection: teaching
 type: "Hobby"
-permalink: /teaching/2014-spring-teaching-1
-venue: "The comfort of my home"
-date: 2020-03-10
 location: "Ann Arbor, USA"
 ---
 
