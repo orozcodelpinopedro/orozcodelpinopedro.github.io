@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pedro Orozco del Pino, MS"
-description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
+name                     : &name "Pedro Orozco del Pino, Ph.D."
+description              : &description "Biostatistician"
 url                      : https://orozcodelpinopedro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedro-orozco/pedro.orozco.del.pino.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pedro Orozco del Pino"
+  name             : "Pedro Orozco del Pino, Ph.D."
   avatar           : "HeadShot2021_2.JPG"
-  bio              : "PhD Candidate in Biostatistics"
+  bio              : "Biostatistician"
   location         : "Ann Arbor, MI"
   employer         : #"University of Michigan"
   pubmed           : 
