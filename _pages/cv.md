@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biostatistics, University of Michigan, 2022 (Expected)
+* Ph.D. in Biostatistics, University of Michigan, 2022
 * M.S. in Biostatistics, University of Michigan, 2019 
 * M.S. in Statistics, Centro de Investigación en Matemáticas, 2016
 * B.S. in Applied Mathematics, Instituto Tecnológico Autónomo de México, 2012
