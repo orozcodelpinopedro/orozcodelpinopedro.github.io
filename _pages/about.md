@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in the [Department of Biostatistics at the University of Michigan](https://sph.umich.edu/biostat/). 
-I work with [Dr. Zöllner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html) in statistical genetics and with [Dr. Boonstra](https://sph.umich.edu/faculty-profiles/boonstra-philip.html) in data integration methods. 
+Hello! I am a Biostatistician at [Eli Lilly](https://www.lilly.com) working on clinical trials for Diabetes. 
+
+I hold a Ph.D. in Biostatistics from the [University of Michigan](https://sph.umich.edu/biostat/), where worked with [Dr. Zöllner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html) in statistical genetics and with [Dr. Boonstra](https://sph.umich.edu/faculty-profiles/boonstra-philip.html) in data integration methods. 
 I am a former [Fulbright-García Robles fellow](https://www.comexus.org.mx) (September 2017 until August 2020), which helped me support myself during the first three years of my Ph.D.
 
 I am also a co-founder of “[Mexicanos en Estadística y Salud](https://mxciencia.github.io),” a group of Mexican researchers who do science communication.
