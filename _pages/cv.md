@@ -26,7 +26,7 @@ Work experience
   
 Research Interests
 ======
-Statistical Genetics, transferability of polygenic risk scores, equitable genetic research, multi-ethnic genetic research and health disparities, high dimensional data analysis, statistical modeling for biomedical data, and data integration. 
+Clinical trials, data integration, health disparities, high dimensional data analysis, and statistical modeling for biomedical data. 
 
 Skills
 ======
