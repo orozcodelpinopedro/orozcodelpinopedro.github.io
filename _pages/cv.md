@@ -73,8 +73,10 @@ Teaching
   
 Service and leadership
 ======
+* Eli Lilly and Company, Remote
+  * Co-chair of Workgroup In Statistical Education (WISE) in Diabetes, November 2022- present
 * Biostatistics Department University of Michigan, Ann Arbor, MI
-  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- present 
+  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- September 2021 
   * Michigan Public Health Alumni Mentor, September 2019- present
   * Departamental Diversity, Equity and Inclusion committee member, January 2019-present
   * School of Public Health Admission Ambassador, Fall 2021-present
