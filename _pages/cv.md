@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://www.dropbox.com/s/gi3xe8d8mj63owh/POP%20Resume.pdf?dl=0)
+[Download Resume](https://www.dropbox.com/s/33yafilowp53zu0/POP%20Resume.pdf?dl=0)
 
 Education
 ======
